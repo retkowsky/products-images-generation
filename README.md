@@ -14,3 +14,5 @@ Easy to generate artificial images of products for example with a list of multip
 
 ## Some sneakers examples
 <img src="plot_sneakers shoes.jpg">
+
+08-Jun-2022 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
