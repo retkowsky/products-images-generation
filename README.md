@@ -5,9 +5,9 @@ Easy to generate artificial images with a list of multiple prompt (camera angle,
 
 ## Some boots examples
 <img src="plot_boots.jpg">
-## Some boots examples
+## Some high heels shoes examples
 <img src="plot_high heels shoes.jpg">
-## Some boots examples
+## Some loafers shoes examples
 <img src="plot_loafers shoes.jpg">
-## Some boots examples
+## Some sneakers examples
 <img src="plot_sneakers shoes.jpg">
