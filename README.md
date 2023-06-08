@@ -22,4 +22,4 @@ Some loafers shoes examples
 Some sneakers examples
 <img src="plot_sneakers shoes.jpg">
 
-08-Jun-2022 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
+08-Jun-2023 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
