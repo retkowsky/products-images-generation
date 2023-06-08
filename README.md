@@ -3,7 +3,7 @@
 This notebook is generating artificial products images using some prompts.
 Easy to generate artificial images of products for example with a list of multiple prompts (camera angle, products, products color, scenes...).
 
-## Some boots examples
+## Some boots examples 
 <img src="plot_boots.jpg">
 
 ## Some high heels shoes examples
